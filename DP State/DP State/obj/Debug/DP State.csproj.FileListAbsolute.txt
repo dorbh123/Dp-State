@@ -1,0 +1,7 @@
+C:\Users\Dor\source\repos\DP State\DP State\bin\Debug\DP State.exe.config
+C:\Users\Dor\source\repos\DP State\DP State\bin\Debug\DP State.exe
+C:\Users\Dor\source\repos\DP State\DP State\bin\Debug\DP State.pdb
+C:\Users\Dor\source\repos\DP State\DP State\obj\Debug\DP State.csprojAssemblyReference.cache
+C:\Users\Dor\source\repos\DP State\DP State\obj\Debug\DP State.csproj.CoreCompileInputs.cache
+C:\Users\Dor\source\repos\DP State\DP State\obj\Debug\DP State.exe
+C:\Users\Dor\source\repos\DP State\DP State\obj\Debug\DP State.pdb
